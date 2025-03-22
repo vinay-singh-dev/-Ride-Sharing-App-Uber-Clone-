@@ -43,7 +43,7 @@ A fully functional ride-sharing Android app built with **Kotlin** and **Jetpack 
 1. **Clone the Repository:**  
    ```sh
    git clone https://github.com/vinay-singh-dev/RideSharingApp.git
-   cd RideSharingApp
+   cd RideSharingApp 
    ```
 2. **Open in Android Studio** and Sync Gradle.
 3. **Set up Firebase:** Add your `google-services.json` in `app/` directory.
