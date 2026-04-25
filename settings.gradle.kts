@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "RideShareApp"
 include(":app")
- 
+
+
+// testing dependencies
