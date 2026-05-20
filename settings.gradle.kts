@@ -23,4 +23,5 @@ rootProject.name = "RideShareApp"
 include(":app")
 
 
-// testing dependencies
+// testing dependencies resolver 
+// bat performence indication
